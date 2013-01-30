@@ -1,0 +1,12 @@
+*.class
+*.settings
+bin/*
+target/*
+bin/*
+gen/*
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
