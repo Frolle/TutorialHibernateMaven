@@ -1,9 +1,3 @@
-*.class
-*.settings
-bin/*
-target/*
-bin/*
-gen/*
 
 
 # Package Files #
