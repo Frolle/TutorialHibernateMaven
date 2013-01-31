@@ -3,6 +3,7 @@
 bin/*
 target/*
 gen/*
+*.classpath
 
 # Package Files #
 *.jar
