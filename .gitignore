@@ -2,9 +2,8 @@
 *.settings
 bin/*
 target/*
-bin/*
 gen/*
-
+*.classpath
 
 # Package Files #
 *.jar

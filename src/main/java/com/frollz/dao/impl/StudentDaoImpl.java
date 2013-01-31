@@ -30,7 +30,6 @@ public class StudentDaoImpl implements StudentDAO {
 
 	@Override
 	public Student getStudent(int studentID) {
-		// TODO Auto-generated method stub
 		return (Student)session.getCurrentSession().get(Student.class, studentID);
 	}
 
